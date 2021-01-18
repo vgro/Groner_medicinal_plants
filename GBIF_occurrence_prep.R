@@ -9,7 +9,7 @@ library(raster)
 library(sp)
 library(maptools)
 
-setwd("Y:/Vivienne/2019/SDM/occurrence/medicinal_plants_occurrence/")
+setwd("path")
   #load species occurrence
   species_genus <- 'Clivia'
   species_species<-'miniata'
