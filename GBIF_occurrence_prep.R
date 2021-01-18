@@ -9,7 +9,7 @@ library(raster)
 library(sp)
 library(maptools)
 
-setwd("path")
+setwd('path_to_data')
   #load species occurrence
   species_genus <- 'Clivia'
   species_species<-'miniata'
